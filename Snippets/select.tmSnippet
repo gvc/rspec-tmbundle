@@ -3,16 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>it '${1:does something}'${2: do
-  $0
-end}</string>
+	<string>select '$1', from: '$2'</string>
 	<key>name</key>
-	<string>it (does something)</string>
+	<string>select</string>
 	<key>scope</key>
 	<string>source.ruby.rspec</string>
 	<key>tabTrigger</key>
-	<string>it</string>
+	<string>sef</string>
 	<key>uuid</key>
-	<string>AD51AA2B-09C9-40DE-9720-2FD43C967FA9</string>
+	<string>7313CDE5-CD35-4439-ACFF-8023AFEA934F</string>
 </dict>
 </plist>

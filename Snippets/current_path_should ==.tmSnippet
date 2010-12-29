@@ -3,16 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>it '${1:does something}'${2: do
-  $0
-end}</string>
+	<string>current_path.should == </string>
 	<key>name</key>
-	<string>it (does something)</string>
+	<string>current_path.should ==</string>
 	<key>scope</key>
 	<string>source.ruby.rspec</string>
 	<key>tabTrigger</key>
-	<string>it</string>
+	<string>cps=</string>
 	<key>uuid</key>
-	<string>AD51AA2B-09C9-40DE-9720-2FD43C967FA9</string>
+	<string>AC44A4B2-D862-4B15-97A9-C222909AE20A</string>
 </dict>
 </plist>
